@@ -32,7 +32,7 @@ namespace FCMSubscriber
             //SAMPLES
             
             //var result = FCMSubscriber.Subscribe("asdasdasdasdasdasd", topicName,@"D:\sun3test-firebase-adminsdk-xaoio-42fe26a1fb.json");
-            //var result = FCMSubscriber.Subscribe("asdasdasdasdasdasd", topicName,@"D:\sun3test-firebase-adminsdk-xaoio-42fe26a1fb.json");
+            //var result = FCMSubscriber.Subscribe(TokensList, topicName,@"D:\sun3test-firebase-adminsdk-xaoio-42fe26a1fb.json");
             //var result = FCMSubscriber.Subscribe(connection, "customer", "FcmToken", topicName,@"D:\sun3test-firebase-adminsdk-xaoio-42fe26a1fb.json");
 
 
